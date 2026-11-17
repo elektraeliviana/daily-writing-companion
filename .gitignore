@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables & secrets
+.env
+
+# SQLite Database (allow sample/seed if needed, ignore production db)
+companion.db
+*.sqlite3
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Exported text artifacts
+*Lovely Data*.txt

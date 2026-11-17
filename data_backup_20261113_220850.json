@@ -1,0 +1,65 @@
+{
+  "entries": [
+    {
+      "date": "2026-06-28",
+      "category": "journal",
+      "prompt": "Write a letter to yourself from one year ago.",
+      "text": "I wish I can be better",
+      "word_count": 6,
+      "duration_seconds": 6
+    },
+    {
+      "date": "2026-07-18",
+      "category": "story",
+      "prompt": "Write about a door that only opens once a year.",
+      "text": "a haunted house's door",
+      "word_count": 4,
+      "duration_seconds": 8
+    },
+    {
+      "date": "2026-07-18",
+      "category": "story",
+      "prompt": "Someone discovers their reflection is one second behind them.",
+      "text": "I called this, a magic of Dr. Strange's spel",
+      "word_count": 9,
+      "duration_seconds": 25
+    },
+    {
+      "date": "2026-07-18",
+      "category": "journal",
+      "prompt": "What's a small thing you're avoiding right now?",
+      "text": "Homework",
+      "word_count": 1,
+      "duration_seconds": 6
+    },
+    {
+      "date": "2026-07-18",
+      "category": "story",
+      "prompt": "Write about a door that only opens once a year.",
+      "text": "The Conjuring House's door",
+      "word_count": 4,
+      "duration_seconds": 8
+    },
+    {
+      "date": "2026-07-18",
+      "category": "journal",
+      "prompt": "Describe today as weather.",
+      "text": "today feels hurrican",
+      "word_count": 3,
+      "duration_seconds": 12
+    },
+    {
+      "date": "2026-08-20",
+      "category": "journal",
+      "prompt": "What did you notice today that no one else seemed to?",
+      "text": "I'm clever. That's all",
+      "word_count": 4,
+      "duration_seconds": 8,
+      "mood": "\ud83d\ude0a Great"
+    }
+  ],
+  "streak": 1,
+  "last_entry_date": "2026-08-20",
+  "goal": 200,
+  "goal_hit_dates": []
+}
